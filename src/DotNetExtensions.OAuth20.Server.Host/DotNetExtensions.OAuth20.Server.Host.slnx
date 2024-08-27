@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Demos/" />
+  <Folder Name="/Demos/Clients/" />
+  <Folder Name="/Demos/Resources/" />
+  <Folder Name="/Demos/Server/" />
+  <Folder Name="/Projects/" />
+  <Folder Name="/Tests/" />
+  <Folder Name="/Tests/E2E/" />
+  <Folder Name="/Tests/Integration/" />
+  <Folder Name="/Tests/Load/" />
+  <Properties Name="Visual Studio">
+    <Property Name="OpenWith" Value="Visual Studio Version 17" />
+  </Properties>
+</Solution>
