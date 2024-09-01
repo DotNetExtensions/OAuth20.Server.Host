@@ -21,7 +21,7 @@ We strongly recommend that you report vulnerabilities directly through GitHub’
 
 To report a vulnerability via GitHub:
 
-1. Go to the [Security tab of our repository](https://github.com/DotNetExtensions/OAuth20/security).
+1. Go to the [Security tab of our repository](https://github.com/DotNetExtensions/OAuth20.Server.Host/security).
 2. Click on "Report a vulnerability."
 3. Fill in the "Advisory Details" form provided.
 
@@ -79,7 +79,7 @@ Send your report to: [security@dotnetextensions.com](mailto:security@dotnetexten
 
 [Learn more about CVSS scoring](https://www.first.org/cvss/v3.1/user-guide)
 
-**Important Note:** We prefer you to report vulnerabilities via the GitHub [Security tab](https://github.com/DotNetExtensions/OAuth20/security) for a more streamlined and secure process.
+**Important Note:** We prefer you to report vulnerabilities via the GitHub [Security tab](https://github.com/DotNetExtensions/OAuth20.Server.Host/security) for a more streamlined and secure process.
 
 ## Security Update Process
 
@@ -89,7 +89,7 @@ After a vulnerability is reported, our team will:
 2. **Assess the Impact:** We will evaluate the severity and impact of the vulnerability.
 3. **Develop a Fix:** Our team will work on a patch or update to fix the vulnerability.
 4. **Notify Users:** After the fix is developed and tested, we will notify users about the update.
-5. **Public Disclosure:** Once the vulnerability is resolved, we will disclose the details in our [CHANGELOG.md](https://github.com/DotNetExtensions/OAuth20/CHANGELOG.md) file.
+5. **Public Disclosure:** Once the vulnerability is resolved, we will disclose the details in our [CHANGELOG.md](https://github.com/DotNetExtensions/OAuth20.Server.Host/CHANGELOG.md) file.
 
 ## Disclosure Policy
 
@@ -135,7 +135,7 @@ These measures are in place to protect both you and the project. If you have any
 
 ### Dependency Graph and Automatic Dependency Submission
 
-The DotNetExtensions.OAuth20.Server.Host project utilizes GitHub's **Dependency Graph** feature to track and manage the dependencies used in our project. You can view the full dependency graph by navigating to the [Dependency Graph section](https://github.com/DotNetExtensions/OAuth20/network/dependencies) in our repository.
+The DotNetExtensions.OAuth20.Server.Host project utilizes GitHub's **Dependency Graph** feature to track and manage the dependencies used in our project. You can view the full dependency graph by navigating to the [Dependency Graph section](https://github.com/DotNetExtensions/OAuth20.Server.Host/network/dependencies) in our repository.
 
 We have enabled **Automatic Dependency Submission** to ensure that our dependency data is up-to-date. This feature allows GitHub to automatically submit dependencies detected during builds to the dependency graph. While we currently use GitHub-hosted runners, we plan to implement labeled runners with custom GitHub Actions workflows for "Automatic Dependency Submission" as part of our CI/CD setup milestone.
 
